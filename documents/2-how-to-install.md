@@ -4,6 +4,7 @@
 - Visit official web site (https://www.landis-ii.org/install)
 
 ## Technical Notes
+- Select dotnet SDK 8.X.XX
 - LANDIS-II is a backward-incompartible software. Users are recommended to use the latest versions.
 - You can modify source code. 
 - Currently, windows and linux is supported. MacOS is not supported.
